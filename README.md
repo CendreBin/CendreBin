@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">    
+  <img src="https://render.gitanimals.org/lines/{cendrebin}?pet-id=1" width="1000" height="120"/>
+</div>
 # 제 GitHub에 방문하신 당신을 환영합니다. 👍🏻
 
 ## 🙋🏻 저는 Cendre라고 합니다.
