@@ -1,8 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=89A5EAEA&background=FFFFFF00&width=435&lines=Etude+sur+la+vie+des+fleurs)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">    
   <img src="https://render.gitanimals.org/lines/{cendrebin}?pet-id=1" width="1000" height="120"/>
 </div>
-# 제 GitHub에 방문하신 당신을 환영합니다. 👍🏻
 
 ## 🙋🏻 저는 Cendre라고 합니다.
 
@@ -11,7 +12,7 @@
 
 ---
 
-## Tech Stack
+## 📖Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
@@ -26,6 +27,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CendreBin&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CendreBin&layout=compact&theme=radical" width="48%"/>
 </p>
+
+---
+
+## 📥 Contact
+- ✉️ Email: [cendrebin1106@gmail.com](mailto:cendrebin1106@gmail.com)
+---
 
 <p align="center">
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=CendreBin&utm_content=farm">
