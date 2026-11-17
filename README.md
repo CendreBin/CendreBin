@@ -30,7 +30,7 @@
 ---
 
 ## 📥 Contact
-- ✉️ Email: [cendrebin1106@gmail.com](mailto:cendrebin1106@gmail.com)
+- ✉️ Email: [cendrebin1106@proton.me](mailto:cendrebin1106@proton.me)
 ---
 
 <p align="center">
